@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ITDVN_5</string>
+    <string name="log">log</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="first_fragment">first fragment</string>
+    <string name="add">add</string>
+    <string name="remove">remove</string>
+    <string name="replace">replace</string>
+    <string name="second_fragment" />
+    <string name="textview_activity">TextView в главной Activity</string>
+</resources>
